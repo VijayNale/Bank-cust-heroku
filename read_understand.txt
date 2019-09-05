@@ -1,0 +1,10 @@
+process of using Deployment in Heruko platform
+
+create model and flask deploy 
+
+first create configuration file 
+
+Procfile : file_name name flask_app_name
+
+requirement.txt : package with version (mention package before upload into heruko) important file
+here heruko first to install that version library
